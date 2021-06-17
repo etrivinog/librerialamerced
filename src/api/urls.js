@@ -1,5 +1,5 @@
 //Base url
-const urlBase = 'https://hemerotecaudc.herokuapp.com/api/v1/';
+const urlBase = 'https://hemerotecaudc.herokuapp.com/api/v1/'; 
 
 //Url for objects
 export const urlUser = `${urlBase}user`;
